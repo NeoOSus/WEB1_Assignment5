@@ -17,12 +17,3 @@ A simple HTML, CSS and JavaScript project for Web 1 Technologies.
 4. Use the navigation links to open the other parts.
 
 To-Do tasks disappear when the page is reloaded or closed.
-
-## Publish with GitHub Pages
-
-1. Create a GitHub repository and upload all files from this folder to its root.
-2. Open the repository's Settings → Pages.
-3. Under Build and deployment, choose Deploy from a branch.
-4. Select the main branch and / (root), then save.
-5. After deployment, open the website link shown on the Pages screen.
-6. Submit the repository link and the published website link.
