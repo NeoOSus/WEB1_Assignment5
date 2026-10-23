@@ -1,0 +1,64 @@
+body {
+    font-family: Arial, sans-serif;
+    max-width: 800px;
+    margin: 30px auto;
+    padding: 0 16px;
+    color: #222;
+    background-color: white;
+    line-height: 1.5;
+}
+
+nav {
+    padding: 10px 0;
+    border-bottom: 1px solid #ccc;
+}
+
+nav a {
+    display: inline-block;
+    margin-right: 16px;
+    color: #245ca0;
+}
+
+section {
+    margin-bottom: 28px;
+}
+
+button, input {
+    font: inherit;
+    padding: 5px 10px;
+    margin: 4px 4px 4px 0;
+}
+
+button {
+    cursor: pointer;
+}
+
+input {
+    max-width: 100%;
+    box-sizing: border-box;
+}
+
+label {
+    display: block;
+}
+
+.box {
+    background-color: #eee;
+    padding: 20px;
+    margin-bottom: 8px;
+    border: 1px solid #ccc;
+}
+
+li {
+    margin: 8px 0;
+    overflow-wrap: anywhere;
+}
+
+#task-list label {
+    display: inline;
+    margin-right: 12px;
+}
+
+.completed {
+    text-decoration: line-through;
+}
